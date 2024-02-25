@@ -1,4 +1,4 @@
-# 🦜🔗 Langchain - Quickstart App
+# 🦜🔗 Langchain - Allen's App
 
 Build your first LLM powered app with Langchain and Streamlit.
 
