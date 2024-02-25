@@ -13,6 +13,9 @@ Build your first LLM powered app with Langchain and Streamlit.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://langchain-quickstart.streamlit.app/)
 
+## Allen's generated App
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://my-app-3psewdngm7lb2xk5xgwfv5.streamlit.app/)
+
 ## Get an OpenAI API key
 
 You can get your own OpenAI API key by following the following instructions:
